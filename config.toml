@@ -1,0 +1,24 @@
+[browser]
+# 不用填
+ua = ""
+
+[account]
+# 你的手机号对应你的密码，必须填，别忘记去掉”#“
+ 177777777 = "密码"#示范格式：177777777 = "123456" 前面手机号，后面密码
+
+[cookies]
+
+[message_push.Server_chan]
+# server酱推送
+send_key = ""
+
+[message_push.Wechat_message]
+# 微信企业消息
+corpid = ""
+corpsecret = ""
+agentid = ""
+
+[message_push.Dingtalk_message]
+# 钉钉推送
+access_token = ""
+
